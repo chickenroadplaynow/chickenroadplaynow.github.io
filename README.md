@@ -1,12 +1,14 @@
-<div align="center">
+---
+layout: default
+title: Chicken Road
+---
+
+<div align="center" markdown="1">
 
 # 🐔🔥 CHICKEN ROAD
-
 ### The Ultimate “Cross the Road” Arcade Challenge — Play in Your Browser
 
 <br>
-
-<!-- Главная кнопка "Играть" -->
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2toejNwMXd6dTc5bTgzZjNkcXF3NDMxNnl5NmUzcnpnaTg0ZHh4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBqKvEqPvPhKDineHz/giphy.gif" width="260" alt="Chicken Road gameplay preview" />
 
@@ -35,17 +37,20 @@
 
 If you enjoy:
 
--   quick reaction games
--   “just one more run” loops
--   simple rules, high tension
--   score-chasing with friends
+- quick reaction games  
+- “just one more run” loops  
+- simple rules, high tension  
+- score-chasing with friends  
 
 …then **Chicken Road** is exactly your kind of chaos.
 
 <br>
 
-<div align="center">
-    <img src="Chicken Road Game.jpeg" alt="Chicken Road screenshot 1" width="320" />
+<div align="center" markdown="1">
+
+<img src="Chicken Road Game.jpeg" alt="Chicken Road screenshot 1" width="320" />
+
+<br>
 
 [![CLICK TO PLAY](https://img.shields.io/badge/CLICK%20TO%20PLAY-%F0%9F%94%B0%20LAUNCH%20GAME-informational?style=for-the-badge)](https://chickenroaddelight.com)
 
@@ -55,11 +60,11 @@ If you enjoy:
 
 ## ✨ Why People Get Addicted
 
--   🔥 **Instant gameplay** — open link → you’re already in action
--   🚗 **Fast cars, faster reflexes** — every second matters
--   😂 **Hilarious fails** — you _will_ get hit, and you _will_ laugh
--   🏆 **Endless score chase** — “okay… last run… for real this time”
--   ⏱ **Perfect for 1–2 minute breaks** (or 3-hour marathons 👀)
+- 🔥 **Instant gameplay** — open link → you're already in action  
+- 🚗 **Fast cars, faster reflexes** — every second matters  
+- 😂 **Hilarious fails** — you _will_ get hit, and you _will_ laugh  
+- 🏆 **Endless score chase** — “okay… last run… for real this time”  
+- ⏱ **Perfect for 1–2 minute breaks** (or 3-hour marathons 👀)
 
 > **Goal:** Don’t get hit.  
 > **Reality:** You absolutely get hit. Repeatedly.
@@ -72,13 +77,13 @@ If you enjoy:
    👉 [Click here to play](https://chickenroaddelight.com)
 
 2. **Controls**
-
-    - ⬆ / ⬇ / ⬅ / ➡ or WASD – move your chicken
-    - Avoid cars, trucks and all the moving chaos
-    - Time your moves… or just panic and sprint 😅
+   - ⬆ / ⬇ / ⬅ / ➡ or **WASD** – move your chicken  
+   - Avoid cars, trucks and all the moving chaos  
+   - Time your moves… or just panic and sprint 😅  
 
 3. **Score**
-    - The farther you go — the higher your score
-    - Challenge friends: “Beat my score or you’re the chicken.”
+   - The farther you go — the higher your score  
+   - Challenge friends: “Beat my score or you’re the chicken.”
 
 ---
+
